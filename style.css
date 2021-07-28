@@ -1,3 +1,6 @@
+
+/* common css styles--------------  */
+
 body {
   font-family: "Poppins", sans-serif;
 }
@@ -7,6 +10,14 @@ h1 {
 section {
   display: flex;
 }
+
+/* common css styles ends---------*/
+
+
+
+
+
+/* skip the diet just eat healthy food & about me css starts------------- */
 .half-width {
   width: 50%;
   padding-left: 5%;
@@ -14,6 +25,7 @@ section {
 .half-width img {
   width: 80%;
 }
+
 .link-button {
   text-decoration: none;
   background-image: linear-gradient(#cc2b5e,#753a88);
@@ -35,18 +47,20 @@ section {
 .frame-p{
   margin-right: 200px;
 }
- 
- 
+/* skip the diet just eat healthy food & about me css  ends---------------- */
+
+
+
+
+
+ /* my recepies css-------- */
 .my-recepies-section {
   display: inline;
 }
-.social-site-logo {
-  display: inline;
-}
-.new-width {
-  width: 60%;
-  padding-left: 10px;
-}
+ 
+
+
+  /* three recepie boxes css starts-------------------*/
 .recepie-box-section {
   display: flex;
   margin-top: 50px;
@@ -79,7 +93,14 @@ section {
   margin-top: 15px;
   margin-left: 15px;
 }
+/* three recepie boxes css ends ---------------*/
 
+
+
+
+
+
+/* subscriber css starts------------- */
 .subscriber {
   width: 70%;
   margin-top: 5%;
@@ -90,6 +111,12 @@ section {
   border-left: 7px;
   padding: 1%;
 }
+/* subscriber css ends--------------- */
+
+
+
+
+  /* footer css starts-------------- */
 .foo {
   position: sticky;
   margin-top: 10%;
@@ -99,6 +126,13 @@ section {
   text-align: center;
   height: 200px;
 }
+/* footer css ends--------------- */
+
+
+
+
+
+/* menu bar css strats-------------- */
 .menu-bar {
   text-align: right;
 }
@@ -112,13 +146,13 @@ section {
   margin: 2px;
   padding: 2px;
 }
+/* menu bar css ends--------------- */
 
 
 
 
 
-
-/* new css */
+/* testimonials css starts-------------- */
  
  
 .testimonials{
@@ -177,8 +211,8 @@ section {
   margin-bottom: 20px;
 }
 
+/* testimonial css ends------------- */
 
- 
-
+  
  
  
